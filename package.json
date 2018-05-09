@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777 --browser 'Firefox Developer Edition'",
+    "serve": "browser-sync start --server --files '*.html', 'css/*.css', 'js/*.js', !node_modules/**/*'",
     "watch": "node-sass --watch ./sass/main.scss ./css/main.css"
   },
   "keywords": [],
