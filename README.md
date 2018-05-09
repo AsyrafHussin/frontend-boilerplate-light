@@ -5,6 +5,7 @@ Front-end boilerplate lightweight version
 ## Contains
 
 *   sass
+*   sass breakpoint mixin
 *   jquery
 *   browser-sync
 *   compile sass using node-sass
