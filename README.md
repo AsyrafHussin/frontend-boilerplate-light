@@ -26,7 +26,7 @@ List all available command
 
 | Command       |                Description                |
 | ------------- | :---------------------------------------: |
-| npm run serve | Serving project at http://localhost:7777  |
+| npm run serve | Serving project at http://localhost:3000  |
 | npm run watch | Watch all files for changes and recompile |
 
 ## Contributing
