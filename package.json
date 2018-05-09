@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "serve": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777 --browser 'Firefox Developer Edition'",
-    "watch": "node-sass --watch ./sass/styles.scss ./css/styles.css"
+    "watch": "node-sass --watch ./sass/main.scss ./css/main.css"
   },
   "keywords": [],
   "author": "",
