@@ -6,6 +6,11 @@ Front-end boilerplate lightweight version
 
 *   sass
 *   sass breakpoint mixin
+    *   largedesktop
+    *   desktop
+    *   tablet
+    *   tabletmobile
+    *   mobile
 *   jquery
 *   browser-sync
 *   compile sass using node-sass
